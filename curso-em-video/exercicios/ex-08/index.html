@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Site</title>
+</head>
+<body>
+    <h1>Imagens Dinamicas</h1>
+    <picture>
+        <source media="(max-width:750px)" srcset="fotos/fotopequena.png" type="image/png">
+        <source media="(max-width:1050px)" srcset="fotos/fotomedia.png" type="image/png">
+        <img src="fotos/fotogrande.png" alt=""></picture>
+
+        <h1>Reproduzindo Audio</h1>
+        <audio src="media/Danzon De Pasion (Sting) - Jimmy Fontanez_Media Right Productions.mp3" controls autoplay></audio>
+        <h2>Aqui está outra forma de adicionar</h2>
+        <audio preload="metadata" autoplay controls loop>
+            <source src="media/Danzon De Pasion (Sting) - Jimmy Fontanez_Media Right Productions.mp3" type="audio/mpeg">
+            <source src="media/Danzon De Pasion (Sting) - Jimmy Fontanez_Media Right Productions.ogg" type="audio/ogg">
+            <source src="media/Danzon De Pasion (Sting) - Jimmy Fontanez_Media Right Productions.wav" type="audio/wav">
+            <p>Aúdio não localizado! <a href="media/Danzon De Pasion (Sting) - Jimmy Fontanez_Media Right Productions.mp3">Clique aqui para download.</a></p>
+        </audio>
+
+        
+    
+</body>
+</html>

@@ -1,0 +1,18 @@
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+.titulo-green {
+  color: seagreen;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
