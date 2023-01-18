@@ -13,7 +13,7 @@
 
 Projeto desenvolvido pelo [Curso em Video](https://www.cursoemvideo.com/).
 
-[Clique aqui para acessar o projeto](https://bertolinx.github.io/html-css/curso-em-video/projetos/and/android.html)
+[Clique aqui para acessar o projeto](https://bertolinx.github.io/estudos/curso-em-video/projetos/and/android.html)
 
 ## Tecnologias
 
