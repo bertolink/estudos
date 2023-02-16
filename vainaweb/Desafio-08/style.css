@@ -26,7 +26,7 @@ nav ul {
   display: flex;
   justify-content: space-between;
   width: 700px;
-  color: #fff2fc;
+  color: white;
   font-size: 25px;
 }
 
@@ -45,7 +45,7 @@ main {
 }
 
 h1 {
-  color: #fff2fc;
+  color: white;
   text-decoration: underline;
   font-style: italic;
   font-size: 3.125rem;
@@ -123,6 +123,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff2fc;
+  color: white;
   font-size: 20px;
 }
